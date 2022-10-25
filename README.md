@@ -9,3 +9,8 @@
 
 
 <img align="left" alt="Pyhton" width="30px" style="padding-rgiht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Pyhton" width="30px" style="padding-rgiht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Pyhton" width="30px" style="padding-rgiht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Pyhton" width="30px" style="padding-rgiht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Pyhton" width="30px" style="padding-rgiht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<img align="left" alt="Pyhton" width="30px" style="padding-rgiht:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
