@@ -1,10 +1,6 @@
 # About Me:
 📌​ I'm studying IT<br>📣 I'm currently learning Python, SQL, HTML, CS and JS<br>❤️​ I'm always trying to learn something new
 
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Splewtay) 
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eunice2004&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eunice2004&theme=gotham&hide_border=true)<br/>
