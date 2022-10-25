@@ -1,5 +1,5 @@
 ## About Me:
-📌​ I'm studying IT<br>❤️​ I'm always trying to learn something new
+♡​ I'm studying IT<br>♡​ I'm always trying to learn something new
 
 
 ####  I'm currently learning: <br>
