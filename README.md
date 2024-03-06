@@ -1,5 +1,5 @@
 ## About Me:
-♡​ studying IT<br>♡​ Always trying to learn something new
+-​ Studying IT<br>-​ Always trying to learn something new
 
 
 ####  I'm currently learning: <br>
